@@ -50,7 +50,11 @@ shh 速度会比https 速度快
 合并分支 git merge [分支名字]
 删除分支 git branch -d [分支名字]
 
+<<<<<<< HEAD
 版本冲突怎么解决
+=======
+create a new branch is quick and simple
+>>>>>>> feature1
 
 
 
