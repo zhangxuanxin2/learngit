@@ -33,11 +33,12 @@ git checkout -- [文件名]
 4.
 
 
+从服务器克隆项目到本地
+ssh协议 git clone git@github.com:zhangxuanxin2/bootstrap
 
+https协议 git clone https://github.com/zhangxuanxin2/bootstrap
 
-
-
-
+shh 速度会比https 速度快
 
 
 
