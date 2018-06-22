@@ -53,8 +53,14 @@ shh 速度会比https 速度快
 <<<<<<< HEAD
 版本冲突怎么解决
 =======
-create a new branch is quick and simple
->>>>>>> feature1
+create a new branch is quick and simplemZ>>>>>>> feature1
+
+版本冲突怎么解决:
+    重新提交 git add [文件名]
+    删除分支 git branch -d feature1
+
+这样顺利完成版本冲突问题
+
 
 
 
