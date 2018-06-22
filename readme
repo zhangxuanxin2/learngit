@@ -21,4 +21,9 @@ HEAD
 修改管理
 撤销修改
 1.如果未提交到暂存区 git checkout -- [文件名]
-2.如果已经提交到暂存区呢? 
+2.如果已经提交到暂存区呢?
+
+git reset HEAD [文件名]
+git checkout -- [文件名]
+
+
