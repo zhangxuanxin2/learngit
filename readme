@@ -26,4 +26,25 @@ HEAD
 git reset HEAD [文件名]
 git checkout -- [文件名]
 
+远程GitHub库
+1.首先在GitHub中建立一个空库
+2.然后根据提示在本地建立一个与之对应的库
+3.将本地内容推送到GitHub库中 git push -u origin master
+4.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
