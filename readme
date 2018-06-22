@@ -8,5 +8,13 @@ git commit -m "推送内容" 将暂存区的文件保存到Git仓库
 查看历史记录 git log
 简要显示历史记录 git log --pretty=oneline
 
-退回上一个版本 git reset --hard HEAD^
+退回上一个版本 git reset --hard HEAD^ [commitID]
+
+撤销版本退回 可以用 git reflog 查看命令历史 ,以便确定要回到哪个版本
+
+工作区指的是你所能看到文件夹
+版本库
+暂存区
+分支
+HEAD
 
