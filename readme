@@ -1,0 +1,6 @@
+重新学习Git命令
+CentOS默认安装Git软体
+git init 初始化一个空的git仓库
+git add [文件名]
+git commit -m "推送内容"
+
