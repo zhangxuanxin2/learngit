@@ -1,6 +1,12 @@
 重新学习Git命令
 CentOS默认安装Git软体
 git init 初始化一个空的git仓库
-git add [文件名]
-git commit -m "推送内容"
+git add [文件名] 添加文件到暂存区
+git commit -m "推送内容" 将暂存区的文件保存到Git仓库
+
+版本退回
+查看历史记录 git log
+简要显示历史记录 git log --pretty=oneline
+
+退回上一个版本 git reset --hard HEAD^
 
